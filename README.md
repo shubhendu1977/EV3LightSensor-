@@ -1,6 +1,9 @@
 # EV3LightSensor-
 This is leJOS code for small EV3 project. The purpose of the project is to make two threaded leJOS program. One thread will look for colour and other for IR Sensor Input. 
 
+The codes for the project are given in zip file LEGORobo.zip file 
+
+
 The detail of the project is as given below 
 
 Color Sensor 
