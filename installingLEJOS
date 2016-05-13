@@ -1,0 +1,24 @@
+building leJOS environmet 
+------------------------
+
+it has following three parts 
+
+1.  Installing leJOS on Mindstorm EV3 brick 
+
+2.  installing Ecllips IDE for writing java codes 
+
+3.  installing leJOS on Linux / MAC 
+
+
+
+ The Lego EV3 brick is to be booted in leJOS Virtual Machine. 
+ 
+ it will require one mico sd card preperation to be put in EV3 SD card slot. once Done successfully the brick will 
+ boot in leJOS environment.   
+ 
+ follow the instuctions given in links here to install leJOS on mindstorm brick. 
+ 
+ https://sourceforge.net/p/lejos/wiki/Installing%20leJOS/
+ 
+https://www.youtube.com/watch?v=NyoF0Ws6SkY&list=PLrwZZfkqSL7myOkq6kXOzDr7_njjMfNmG&index=1
+
